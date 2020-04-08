@@ -3,7 +3,7 @@ A collection of Xilinx pdfs I have found for xc2064 project
 
 | filename found on internet   | What the document is |
 |------------------------------|------------------------------------------------------------------------------|
-| dsuser.pdf                   | Deloment System User Guide |
+| dsuser.pdf                   | Develoment System User Guide |
 | XACT_DESIGN_MANAGER_Vol1.pdf | Develoment System Reference Guide Vol 1 |
 | wcd02f06.pdf                 | Develoment System Reference Guide Vol 2 |
 | wcd02f07.pdf                 | Develoment System Reference Guide Vol 3 |
